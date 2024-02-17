@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8/FV+9ZS51ZmaLKtgAG2fSbYFe8p3azgXmHDrLO+SOF/GwQqs/QDVxpPPFEn70FyWoAqARcuzp4odaswDagCQ==",
+  "dgSpecHash": "saNSTKjA832dffEJh3zbDx1PlpfGOlZOG50+QIyPTFZSprDFLK2dfjOw6+Zj7p5jYn7jznlkkmHhs+8dTgAyBQ==",
   "success": true,
-  "projectFilePath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
+  "projectFilePath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leoti\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
     "C:\\Users\\leoti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",

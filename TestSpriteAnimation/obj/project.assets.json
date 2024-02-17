@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\TestSpriteAnimation\\TestSpriteAnimation.csproj",
+      "projectUniqueName": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\TestSpriteAnimation\\TestSpriteAnimation.csproj",
       "projectName": "TestSpriteAnimation",
-      "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\TestSpriteAnimation\\TestSpriteAnimation.csproj",
+      "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\TestSpriteAnimation\\TestSpriteAnimation.csproj",
       "packagesPath": "C:\\Users\\leoti\\.nuget\\packages\\",
-      "outputPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\TestSpriteAnimation\\obj\\",
+      "outputPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\TestSpriteAnimation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"
@@ -153,8 +153,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\SpriteAnimationV1.csproj": {
-              "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\SpriteAnimationV1.csproj"
+            "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\SpriteAnimationV1.csproj": {
+              "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\SpriteAnimationV1.csproj"
             }
           }
         }

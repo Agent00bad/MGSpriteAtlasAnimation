@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
+      "projectUniqueName": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
       "projectName": "SpriteAnimationV1",
-      "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
+      "projectPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\SpriteAnimationV1.csproj",
       "packagesPath": "C:\\Users\\leoti\\.nuget\\packages\\",
-      "outputPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1\\SpriteAnimationV1\\obj\\",
+      "outputPath": "D:\\Monogames\\MyTools\\SpriteAnimationV1Git\\SpriteAnimationV1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"
