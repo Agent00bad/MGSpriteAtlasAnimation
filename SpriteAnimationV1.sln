@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteAnimationV1", "SpriteAnimationV1\SpriteAnimationV1.csproj", "{B85AE4D5-4075-4736-BBA0-DC13D76C9C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSpriteAnimation", "TestSpriteAnimation\TestSpriteAnimation.csproj", "{30806BF1-B63E-4AA3-9799-D09E441868C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85AE4D5-4075-4736-BBA0-DC13D76C9C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85AE4D5-4075-4736-BBA0-DC13D76C9C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85AE4D5-4075-4736-BBA0-DC13D76C9C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85AE4D5-4075-4736-BBA0-DC13D76C9C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30806BF1-B63E-4AA3-9799-D09E441868C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30806BF1-B63E-4AA3-9799-D09E441868C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30806BF1-B63E-4AA3-9799-D09E441868C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30806BF1-B63E-4AA3-9799-D09E441868C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
