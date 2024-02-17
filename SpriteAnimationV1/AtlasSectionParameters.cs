@@ -15,4 +15,6 @@ public class AtlasSectionParameters
     /// </summary>
     public Rectangle Section { get; set; }
     public Vector2 Origin { get; set; }
+    public int Column { get; set; }
+    public int Row { get; set; }
 }

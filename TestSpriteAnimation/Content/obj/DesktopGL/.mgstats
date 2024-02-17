@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/CatSprite.png","D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/bin/DesktopGL/CatSprite.xnb","TextureProcessor","Texture2DContent",8002,221269,0,2686798
+"D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/LinkTest.png","D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/bin/DesktopGL/LinkTest.xnb","TextureProcessor","Texture2DContent",3628,98389,0,0110753

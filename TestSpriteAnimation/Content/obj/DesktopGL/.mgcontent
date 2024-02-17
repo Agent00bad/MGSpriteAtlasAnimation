@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Monogames/MyTools/SpriteAnimationV1/TestSpriteAnimation/Content/LinkTest.png</File>
+    <File>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/CatSprite.png</File>
+    <File>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/LinkTest.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

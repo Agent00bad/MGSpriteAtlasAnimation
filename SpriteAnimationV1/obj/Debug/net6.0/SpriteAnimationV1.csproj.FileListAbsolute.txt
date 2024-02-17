@@ -23,3 +23,16 @@ D:\Monogames\MyTools\SpriteAnimationV1\SpriteAnimationV1\obj\Debug\net6.0\Sprite
 D:\Monogames\MyTools\SpriteAnimationV1\SpriteAnimationV1\obj\Debug\net6.0\refint\SpriteAnimationV1.dll
 D:\Monogames\MyTools\SpriteAnimationV1\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.pdb
 D:\Monogames\MyTools\SpriteAnimationV1\SpriteAnimationV1\obj\Debug\net6.0\ref\SpriteAnimationV1.dll
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\bin\Debug\net6.0\SpriteAnimationV1.deps.json
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\bin\Debug\net6.0\SpriteAnimationV1.dll
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\bin\Debug\net6.0\SpriteAnimationV1.pdb
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.csproj.AssemblyReference.cache
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.AssemblyInfoInputs.cache
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.AssemblyInfo.cs
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.csproj.CoreCompileInputs.cache
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.sourcelink.json
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.dll
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\refint\SpriteAnimationV1.dll
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\SpriteAnimationV1.pdb
+D:\Monogames\MyTools\SpriteAnimationV1Git\SpriteAnimationV1\obj\Debug\net6.0\ref\SpriteAnimationV1.dll

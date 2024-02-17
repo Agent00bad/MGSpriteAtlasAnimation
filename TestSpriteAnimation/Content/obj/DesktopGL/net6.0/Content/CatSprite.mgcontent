@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/LinkTest.png</SourceFile>
-  <SourceTime>2024-02-17T17:50:45.6351503+01:00</SourceTime>
-  <DestFile>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/bin/DesktopGL/Content/LinkTest.xnb</DestFile>
-  <DestTime>2024-02-17T18:33:08.7677185+01:00</DestTime>
+  <SourceFile>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/CatSprite.png</SourceFile>
+  <SourceTime>2024-02-17T18:29:35.9954441+01:00</SourceTime>
+  <DestFile>D:/Monogames/MyTools/SpriteAnimationV1Git/TestSpriteAnimation/Content/bin/DesktopGL/Content/CatSprite.xnb</DestFile>
+  <DestTime>2024-02-17T18:33:08.7300059+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
